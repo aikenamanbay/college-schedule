@@ -1,0 +1,56 @@
+{
+  "fileKey": "iMMpr6q4hjJrzD9N2GZHaT",
+  "pageId": "17:102",
+  "boardId": "27:360",
+  "url": "https://www.figma.com/design/iMMpr6q4hjJrzD9N2GZHaT?node-id=27-360",
+  "screens": [
+    {
+      "name": "Login — light.svg",
+      "nodeId": "25:782"
+    },
+    {
+      "name": "Today — light.svg",
+      "nodeId": "25:1483"
+    },
+    {
+      "name": "Week — light.svg",
+      "nodeId": "25:985"
+    },
+    {
+      "name": "Details — light.svg",
+      "nodeId": "25:1184"
+    },
+    {
+      "name": "Reminders — light.svg",
+      "nodeId": "25:860"
+    },
+    {
+      "name": "Profile — light.svg",
+      "nodeId": "25:659"
+    },
+    {
+      "name": "Login — dark.svg",
+      "nodeId": "25:1783"
+    },
+    {
+      "name": "Today — dark.svg",
+      "nodeId": "25:360"
+    },
+    {
+      "name": "Week — dark.svg",
+      "nodeId": "25:1862"
+    },
+    {
+      "name": "Details — dark.svg",
+      "nodeId": "25:1333"
+    },
+    {
+      "name": "Reminders — dark.svg",
+      "nodeId": "25:1657"
+    },
+    {
+      "name": "Profile — dark.svg",
+      "nodeId": "25:535"
+    }
+  ]
+}
